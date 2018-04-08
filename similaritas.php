@@ -1,5 +1,3 @@
-# similaritas
-
 <?php
   require_once 'CosineSimilarity.php';
   function getSimilarityCoefficient( $item1, $item2 ) {
